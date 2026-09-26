@@ -1,0 +1,6 @@
+{
+  "name": "CS Research Agent",
+  "description": "Advanced CS research agent that parses academic papers, extracts core concepts, renders interactive Mermaid.js architecture flowcharts, and synthesizes 3rd-year CS student resume project opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
